@@ -1,1 +1,2 @@
 # 9655-Visualization
+# We have created dynamic Dashboards and Visualizations that will allow us to analyze and derive critical insights on the crime landscape of Los Angeles over a three and a half year period from 2020 - 2024. 
